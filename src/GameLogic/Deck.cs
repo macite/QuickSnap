@@ -90,6 +90,8 @@ namespace CardGames.GameLogic
 			
 			Card c = d.Draw();
 			Assert.AreEqual(51, d.CardsRemaining);
+			Assert.AreEqual(Rank.ACE, c.Rank);
+			Assert.AreEqual(Suit.CLUB, c.Suit);
 
 			int count = 51;
 			

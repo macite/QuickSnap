@@ -112,6 +112,39 @@ namespace CardGames.GameLogic
         {
             _faceUp = ! _faceUp;
         }
+
+        /// <summary>
+        /// Returns the index of the card when laid out in sequence from Ace Spades, to the Kind of Clubs.
+        /// Suits are in the order Spades, Hearts, Diamonds, then Clubs. Cards are then ordered within the
+        /// suit by rank from Ace to King. Where the card is face down, this will return the 52 (the 53rd card)
+        /// which can be used to represent the back of the cards.
+        /// </summary>
+        /// <value>The index of the card.</value>
+        public int CardIndex
+        {
+            get
+            {
+                if (_faceUp)
+                {
+                    switch (_suit)
+                    {
+                    case Suit.SPADE:
+                        return (int)_rank - 1; // Ace = 1, but Ace Spades should be 0
+                    case Suit.HEART:
+                        return 12 + (int)_rank;
+                    case Suit.DIAMOND:
+                        return 25 + (int)_rank;
+                    case Suit.CLUB:
+                        return 38 + (int)_rank;
+                    default:
+                        return 52;
+                    }
+                }
+                else
+                    return 52;
+
+            }
+        }
         
         /// <summary>
         /// Returns a <see cref="System.String"/> that represents the current <see cref="CardGames.Card"/>. This will have
@@ -193,6 +226,20 @@ namespace CardGames.GameLogic
             c.TurnOver();
             Assert.AreEqual (Rank.TWO, c.Rank);
             Assert.AreEqual (Suit.DIAMOND, c.Suit);
+        }
+
+        [Test]
+        public void TestCardIndex()
+        {
+            Card c = new Card (Rank.ACE, Suit.SPADE);
+            Assert.AreEqual (52, c.CardIndex);
+            c.TurnOver();
+			Assert.AreEqual (0, c.CardIndex);
+
+            c = new Card (Rank.KING, Suit.CLUB);
+			Assert.AreEqual (52, c.CardIndex);
+            c.TurnOver();
+			Assert.AreEqual (51, c.CardIndex);
         }
 
         [Test]

@@ -6,12 +6,21 @@ namespace CardGames
 {
     public class SnapGame
     {
+        public static void LoadResources()
+        {
+            Bitmap cards;
+            cards = SwinGame.LoadBitmapNamed ("Cards", "Cards.png");
+            SwinGame.BitmapSetCellDetails (cards, 82, 110, 13, 5, 53);      // set the cells in the bitmap to match the cards
+        }
+
         private static Card _testCard = Card.RandomCard();
 
         public static void Main()
         {
             //Open the game window
             SwinGame.OpenGraphicsWindow("Snap!", 800, 600);
+
+            LoadResources();
             
             //Run the game loop
             while(false == SwinGame.WindowCloseRequested())
@@ -33,6 +42,7 @@ namespace CardGames
                 }
 
                 SwinGame.DrawText ("Card generated was: " + _testCard.ToString (), Color.RoyalBlue, 0, 20);
+                SwinGame.DrawCell (SwinGame.BitmapNamed ("Cards"), _testCard.CardIndex, 160, 50);
 
                 //Clear the screen and draw the framerate
                 SwinGame.DrawFramerate(0,0);

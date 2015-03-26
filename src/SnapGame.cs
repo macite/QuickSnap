@@ -6,10 +6,19 @@ namespace CardGames
 {
     public class SnapGame
     {
+        public static void LoadResources()
+        {
+            Bitmap cards;
+            cards = SwinGame.LoadBitmapNamed ("Cards", "Cards.png");
+            SwinGame.BitmapSetCellDetails (cards, 82, 110, 13, 5, 53);      // set the cells in the bitmap to match the cards
+        }
+
         public static void Main()
         {
             //Open the game window
             SwinGame.OpenGraphicsWindow("Snap!", 800, 600);
+
+            LoadResources();
             
 			Deck myDeck = new Deck ();
 			Card testCard = Card.RandomCard();
@@ -27,7 +36,14 @@ namespace CardGames
 					testCard = myDeck.Draw ();
                 }
 
-				SwinGame.DrawText ("Card generated was: " + testCard.ToString (), Color.RoyalBlue, 0, 20);
+                //turn over the card on F press
+                if (SwinGame.KeyTyped(KeyCode.vk_f))
+                {
+                    _testCard.TurnOver();
+                }
+
+                SwinGame.DrawText ("Card generated was: " + testCard.ToString (), Color.RoyalBlue, 0, 20);
+                SwinGame.DrawCell (SwinGame.BitmapNamed ("Cards"), testCard.CardIndex, 160, 50);
 
                 //Clear the screen and draw the framerate
                 SwinGame.DrawFramerate(0,0);

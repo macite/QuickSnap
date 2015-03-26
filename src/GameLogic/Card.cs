@@ -1,4 +1,5 @@
 using System;
+using SwinGameSDK;
 
 namespace CardGames.GameLogic
 {
@@ -33,7 +34,7 @@ namespace CardGames.GameLogic
 	    TEN,
 	    JACK,
 	    QUEEN,
-	    KING
+	    KING //king is 13
     }
     
 	/// <summary>
@@ -55,6 +56,19 @@ namespace CardGames.GameLogic
             _suit = s;
 		}
         
+		/// <summary>
+		/// Create and return a new card with randomised Rank and Suit.
+		/// </summary>
+		public static Card RandomCard()
+		{
+			Rank randomRank = (Rank)(( SwinGame.Rnd ((int)Rank.KING) - 1) + 1);
+			Suit randomSuit = (Suit)( SwinGame.Rnd ((int)Suit.SPADE+1));
+			
+			Card randomCard = new Card (randomRank, randomSuit);
+
+			return randomCard;
+		}
+
 		/// <summary>
 		/// Allows you to read the value of the Card's rank.
 		/// </summary>

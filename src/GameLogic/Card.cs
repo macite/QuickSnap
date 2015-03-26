@@ -43,15 +43,17 @@ namespace CardGames.GameLogic
     }
     
     /// <summary>
-    /// Each Card has a Rank and a Suit
+    /// Each Card has a Rank and a Suit, and can be either face up or face down.
     /// </summary>
     public class Card
     {
         private Rank _rank;
         private Suit _suit;
+        private bool _faceUp;
         
         /// <summary>
         /// Create a new card with the indicated rank and suit.
+        /// By default the card will be face down.
         /// </summary>
         /// <param name="r">The rank value for the card.</param>
         /// <param name="s">The suit value for the card.</param>
@@ -59,6 +61,7 @@ namespace CardGames.GameLogic
         {
             _rank = r;
             _suit = s;
+            _faceUp = false;
         }
         
         /// <summary>
@@ -93,14 +96,14 @@ namespace CardGames.GameLogic
         }
 
         /// <summary>
-        /// Allows you to check if the card is face up, or face down.
+        /// Allows you to check if the card is fact up, or face down.
         /// </summary>
         /// <value><c>true</c> if the card is face up; otherwise, <c>false</c> to indicate face down.</value>
         public bool FaceUp
         {
-            get {return _faceUp; }
+            get { return _faceUp; }
         }
-
+        
         /// <summary>
         /// Turns the card over, a face up card will become face down whereas a face down card will become
         /// face up.
@@ -113,55 +116,62 @@ namespace CardGames.GameLogic
         /// <summary>
         /// Returns a <see cref="System.String"/> that represents the current <see cref="CardGames.Card"/>. This will have
         /// the first character representing the rank (using T for 10), and then a symbol for the suit. For example, QS is
-        /// the Queen of Spades, 8H is Eight Hearts, TD is Ten Diamonds, and 2C is 2 of Clubs. 
+        /// the Queen of Spades, 8H is Eight Hearts, TD is Ten Diamonds, and 2C is 2 of Clubs. Where the card is face down
+        /// this will return the value <c>"**"</c>.
         /// </summary>
         /// <returns>A <see cref="System.String"/> that represents the current <see cref="CardGames.Card"/>.</returns>
         public override string ToString()
         {
-            String result = "";
-    
-            switch (_rank){
-                case Rank.JACK:
-                    result += "J";
-                    break;
-                case Rank.QUEEN:
-                    result += "Q";
-                    break;
-                case Rank.KING:
-                    result += "K";
-                    break;
-                case Rank.ACE:
-                    result += "A";
-                    break;
-                case Rank.TEN:
-                    result += "T";
-                    break;
-                default:
-                    result += (int)_rank;
-                    break;
-            }
-    
-            switch (_suit) {
-                case Suit.CLUB:
-                    result += "C";
-                    break;
-                case Suit.SPADE:
-                    result += "S";
-                    break;
-                case Suit.HEART:
-                    result += "H";
-                    break;
-                case Suit.DIAMOND:
-                    result += "D";
-                    break;
-                default:
-                    result += "?";
-                    break;
-            }
-    
-            return result;
-        }
+            if (_faceUp)
+            {
+                String result = "";
         
+                switch (_rank){
+                    case Rank.JACK:
+                        result += "J";
+                        break;
+                    case Rank.QUEEN:
+                        result += "Q";
+                        break;
+                    case Rank.KING:
+                        result += "K";
+                        break;
+                    case Rank.ACE:
+                        result += "A";
+                        break;
+                    case Rank.TEN:
+                        result += "T";
+                        break;
+                    default:
+                        result += (int)_rank;
+                        break;
+                }
+        
+                switch (_suit) {
+                    case Suit.CLUB:
+                        result += "C";
+                        break;
+                    case Suit.SPADE:
+                        result += "S";
+                        break;
+                    case Suit.HEART:
+                        result += "H";
+                        break;
+                    case Suit.DIAMOND:
+                        result += "D";
+                        break;
+                    default:
+                        result += "?";
+                        break;
+                }
+        
+                return result;
+            }    
+            else
+            {
+                return "**";
+            }
+        }
     }
 
     // Wrap the unit tests in a region.
@@ -215,10 +225,10 @@ namespace CardGames.GameLogic
             c.TurnOver();
             Assert.AreEqual ("**", c.ToString ());
 
-            c = new Card(Rank.FOUR, Suit.Heart);
+            c = new Card(Rank.FOUR, Suit.HEART);
             Assert.AreEqual ("**", c.ToString ());
             c.TurnOver();
-            Assert.AreEqual ("FH", c.ToString ());
+            Assert.AreEqual ("4H", c.ToString ());
         }
     }
 

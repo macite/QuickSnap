@@ -27,9 +27,9 @@ namespace CardGames
                 }
 
                 //turn over the card on F press
-                if (SwinGame.KeyTyped(KeyCode.vk_F))
+                if (SwinGame.KeyTyped(KeyCode.vk_f))
                 {
-                    _testCard = _testCard.TurnOver();
+                    _testCard.TurnOver();
                 }
 
                 SwinGame.DrawText ("Card generated was: " + _testCard.ToString (), Color.RoyalBlue, 0, 20);

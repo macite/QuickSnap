@@ -26,6 +26,12 @@ namespace CardGames
                     _testCard = Card.RandomCard ();
                 }
 
+                //turn over the card on F press
+                if (SwinGame.KeyTyped(KeyCode.vk_F))
+                {
+                    _testCard = _testCard.TurnOver();
+                }
+
                 SwinGame.DrawText ("Card generated was: " + _testCard.ToString (), Color.RoyalBlue, 0, 20);
 
                 //Clear the screen and draw the framerate

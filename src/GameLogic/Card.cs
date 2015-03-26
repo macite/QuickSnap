@@ -1,6 +1,11 @@
 using System;
 using SwinGameSDK;
 
+#if DEBUG
+using NUnit.Framework;
+#endif
+
+
 namespace CardGames.GameLogic
 {
 	/// <summary>
@@ -140,5 +145,45 @@ namespace CardGames.GameLogic
         }
         
 	}
+
+	// Wrap the unit tests in a region.
+	#region Unit Tests
+
+	#if DEBUG
+
+	public class CardUnitTests
+	{
+		[Test]
+		public void TestCardCreation()
+		{
+			Card c = new Card (Rank.KING, Suit.HEART);
+			Assert.AreEqual (Rank.KING, c.Rank);
+			Assert.AreEqual (Suit.HEART, c.Suit);
+
+			c = new Card (Rank.TWO, Suit.DIAMOND);
+			Assert.AreEqual (Rank.TWO, c.Rank);
+			Assert.AreEqual (Suit.DIAMOND, c.Suit);
+		}
+
+		[Test]
+		public void TestCardToString()
+		{
+			Card c = new Card (Rank.ACE, Suit.SPADE);
+			Assert.AreEqual ("AS", c.ToString ());
+
+			c = new Card (Rank.TEN, Suit.CLUB);
+			Assert.AreEqual ("TC", c.ToString ());
+
+			c = new Card (Rank.THREE, Suit.DIAMOND);
+			Assert.AreEqual ("3D", c.ToString ());
+
+			c = new Card (Rank.JACK, Suit.HEART);
+			Assert.AreEqual ("JH", c.ToString ());
+		}
+	}
+
+	#endif
+
+	#endregion
 }
 

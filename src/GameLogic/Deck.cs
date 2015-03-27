@@ -47,6 +47,15 @@ namespace CardGames.GameLogic
                 return 52 - _topCard;
             }
         }
+
+		/// <summary>
+		/// Returns all of the cards to the Deck, and shuffles their order.
+		/// All cards are turned so that they are face down.
+		/// </summary>
+		public void Shuffle()
+		{
+			//TODO: implement shuffle!
+		}
         
 		/// <summary>
 		/// Takes a card from the top of the Deck. This will return

@@ -29,7 +29,7 @@ SRC_DIR="${APP_PATH}/src"
 LIB_DIR="${APP_PATH}/lib"
 LOG_FILE="${APP_PATH}/out.log"
 
-GMCS_FLAGS="-target:exe -r:./lib/SwinGame.dll,./packages/NUnit.2.6.4/lib/nunit.framework.dll"
+GMCS_FLAGS="-target:exe -r:./lib/SwinGame.dll" #" -r:Microsoft.VisualBasic"
 CS_FLAGS="-optimize+"
 SG_INC="-I${APP_PATH}/lib/"
 

@@ -34,11 +34,12 @@ CS_FLAGS="-optimize+"
 SG_INC="-I${APP_PATH}/lib/"
 
 if [ "$OS" = "$WIN" ]; then
-   export PATH=$APP_PATH/lib:/c/Program\ Files\ \(x86\)/Mono/bin/:$PATH:/c/Windows/Microsoft.NET/Framework/v4.0.30319
+   export PATH=$APP_PATH/lib:/c/Program\ Files\ \(x86\)/Mono/bin/:/c/Program\ Files/Mono/bin/:$PATH:/c/Windows/Microsoft.NET/Framework/v4.0.30319
    GMCS_FLAGS="$GMCS_FLAGS -platform:x86"
 fi
 
 #Locate the compiler...
+USING_CSC=false
 GMCS_BIN=`which mcs 2>> /dev/null`
 if [ -z "$GMCS_BIN" ]; then
     #try locating mcs
@@ -46,12 +47,31 @@ if [ -z "$GMCS_BIN" ]; then
     if [ -z "$GMCS_BIN" ]; then
         #try locating gmcs
         GMCS_BIN=`which csc 2>> /dev/null`
+        USING_CSC=true
 
         if [ -z "$GMCS_BIN" ]; then
             #no compiler found :(
             echo "Unable to find a C# compiler. Install Mono or add it to your path."
             exit -1
         fi
+
+        echo "-------------------------------------------------------------------------------"
+        echo "                   !!WARNING!! Using the default C# compiler."
+        echo "-------------------------------------------------------------------------------"
+        echo ""
+        echo " This compiler does not support some C# 6.0 features used in the template."
+        echo ""
+        echo " To use the default compiler:"
+        echo "   1: Remove 'using static SwinGameSDK.SwinGame;'"
+        echo "   2: Add 'SwinGame.' to the front of each call to a SwinGame function. "
+        echo "      For example, change 'OpenGraphicsWindow(...) to"
+        echo "                          'SwinGame.OpenGraphicsWindow(...)'"
+        echo ""
+        echo " ... or install Mono from http://www.mono-project.com/download/#download-win"
+        echo ""
+        echo "-------------------------------------------------------------------------------"
+        echo ""
+        sleep 4
     fi
 fi
 
@@ -193,7 +213,7 @@ doMacPackage()
     # ln -s ../Frameworks ./Frameworks #Silly macpac uses ./bin folder
     # popd >> /dev/null
     
-    cp ${LIB_DIR}/libSGSDK.dylib ${GAMEAPP_PATH}/Contents/Resources/libSGSDK.dylib
+    cp "${LIB_DIR}/libSGSDK.dylib" "${GAMEAPP_PATH}/Contents/Resources/libSGSDK.dylib"
     cp -R -p "./lib/SwinGame.dll" "${GAMEAPP_PATH}/Contents/Resources/"
     
     rm -f "${OUT_DIR}/${GAME_NAME}.exe"
@@ -243,8 +263,13 @@ doCompile()
         mkdir -p ${OUT_DIR}
     fi
     
-    "${GMCS_BIN}" ${GMCS_FLAGS} ${CS_FLAGS} -out:"${OUT_DIR}/${GAME_NAME}.exe" `find ${APP_PATH} -mindepth 2 | grep [.]cs$` >> ${LOG_FILE}
-    if [ $? != 0 ]; then echo "Error compiling."; exit 1; fi
+    if [ "$OS" = "$WIN" ]; then
+        "${GMCS_BIN}" ${GMCS_FLAGS} ${CS_FLAGS} -out:"${OUT_DIR}/${GAME_NAME}.exe" `find ${APP_PATH} -mindepth 2 -exec ${APP_PATH}/lib/cygpath -ma {} \; | grep [.]cs$` >> ${LOG_FILE}
+    else
+        "${GMCS_BIN}" ${GMCS_FLAGS} ${CS_FLAGS} -out:"${OUT_DIR}/${GAME_NAME}.exe" `find ${APP_PATH} -mindepth 2 | grep [.]cs$` >> ${LOG_FILE}
+    fi
+
+    if [ $? != 0 ]; then echo "Error compiling."; cat ${LOG_FILE}; exit 1; fi
 }
 
 doLinuxPackage()

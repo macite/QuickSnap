@@ -34,7 +34,7 @@ CS_FLAGS="-optimize+"
 SG_INC="-I${APP_PATH}/lib/"
 
 if [ "$OS" = "$WIN" ]; then
-   export PATH=$APP_PATH/lib:/c/Program\ Files\ \(x86\)/Mono/bin/:$PATH:/c/Windows/Microsoft.NET/Framework/v4.0.30319
+   export PATH=$APP_PATH/lib:/c/Program\ Files\ \(x86\)/Mono/bin/:/c/Program\ Files/Mono/bin/:$PATH:/c/Windows/Microsoft.NET/Framework/v4.0.30319
    GMCS_FLAGS="$GMCS_FLAGS -platform:x86"
 fi
 
@@ -193,7 +193,7 @@ doMacPackage()
     # ln -s ../Frameworks ./Frameworks #Silly macpac uses ./bin folder
     # popd >> /dev/null
     
-    cp ${LIB_DIR}/libSGSDK.dylib ${GAMEAPP_PATH}/Contents/Resources/libSGSDK.dylib
+    cp "${LIB_DIR}/libSGSDK.dylib" "${GAMEAPP_PATH}/Contents/Resources/libSGSDK.dylib"
     cp -R -p "./lib/SwinGame.dll" "${GAMEAPP_PATH}/Contents/Resources/"
     
     rm -f "${OUT_DIR}/${GAME_NAME}.exe"
@@ -243,8 +243,13 @@ doCompile()
         mkdir -p ${OUT_DIR}
     fi
     
-    "${GMCS_BIN}" ${GMCS_FLAGS} ${CS_FLAGS} -out:"${OUT_DIR}/${GAME_NAME}.exe" `find ${APP_PATH} -mindepth 2 | grep [.]cs$` >> ${LOG_FILE}
-    if [ $? != 0 ]; then echo "Error compiling."; exit 1; fi
+    if [ "$OS" = "$WIN" ]; then
+        "${GMCS_BIN}" ${GMCS_FLAGS} ${CS_FLAGS} -out:"${OUT_DIR}/${GAME_NAME}.exe" `find ${APP_PATH} -mindepth 2 -exec ${APP_PATH}/lib/cygpath -ma {} \; | grep [.]cs$` >> ${LOG_FILE}
+    else
+        "${GMCS_BIN}" ${GMCS_FLAGS} ${CS_FLAGS} -out:"${OUT_DIR}/${GAME_NAME}.exe" `find ${APP_PATH} -mindepth 2 | grep [.]cs$` >> ${LOG_FILE}
+    fi
+
+    if [ $? != 0 ]; then echo "Error compiling."; cat ${LOG_FILE}; exit 1; fi
 }
 
 doLinuxPackage()

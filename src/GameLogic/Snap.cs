@@ -147,7 +147,7 @@ namespace CardGames.GameLogic
 				_score[player]++;
 				//TODO: consider playing a sound here...
 				
-				SwinGame.LoadSoundEffectNamed ("Banana Slap", "banana slap.wav");
+				SwinGame.LoadSoundEffectNamed ("Banana Slap", "bananaslap.wav");
 				SwinGame.PlaySoundEffect ("Banana Slap");
 				
 			}

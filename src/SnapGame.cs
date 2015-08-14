@@ -21,17 +21,19 @@ namespace CardGames
 		{
 			//Fetch the next batch of UI interaction
 			SwinGame.ProcessEvents();
-
+			
+			
 			if (SwinGame.KeyTyped (KeyCode.vk_SPACE))
 			{
 				myGame.Start ();
 			}
 			if (myGame.IsStarted)
 			{
-				if ( SwinGame.KeyTyped (KeyCode.vk_LSHIFT) &&
-				SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
+				if ( SwinGame.KeyTyped (KeyCode.vk_LSHIFT) && SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
 				{
 				//TODO: add sound effects
+					SwinGame.LoadSoundEffectNamed ("slap", "slap.wav");
+					SwinGame.PlaySoundEffect ("slap");
 				}
 					else if (SwinGame.KeyTyped (KeyCode.vk_LSHIFT))
 				{

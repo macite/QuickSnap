@@ -107,6 +107,7 @@ namespace CardGames.GameLogic
 			}
 		}
 
+
 		/// <summary>
 		/// Update the game. This should be called in the Game loop to enable
 		/// the game to update its internal state.

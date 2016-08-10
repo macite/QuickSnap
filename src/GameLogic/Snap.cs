@@ -37,6 +37,10 @@ namespace CardGames.GameLogic
 		public Snap ()
 		{
 			_deck = new Deck ();
+<<<<<<< HEAD
+=======
+
+>>>>>>> add-auto-card-flip
 			_gameTimer = SwinGame.CreateTimer ();
 		}
 

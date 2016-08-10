@@ -145,9 +145,9 @@ namespace CardGames.GameLogic
 			{
 				_score [player]++;
 				//TODO: consider playing a sound here...
-			}else{
-				_score [player]--;
-			}
+			//}else{
+			//	_score [player]--;
+			//}
 
 			// stop the game...
 			_started = false;

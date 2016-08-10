@@ -148,7 +148,10 @@ namespace CardGames.GameLogic
 				_score[player]++;
 				//TODO: consider playing a sound here...
 			}
+<<<<<<< HEAD
 			
+=======
+>>>>>>> f9834d86a19c7f6bed0b1ade50d90b5c59bbd4b0
 			else if ( player >= 0 && player < _score.Length)
 			{
 				_score[player]--;

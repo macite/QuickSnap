@@ -37,6 +37,7 @@ namespace CardGames.GameLogic
 		public Snap ()
 		{
 			_deck = new Deck ();
+			_gametimer = SwinGame.CreateTimer();
 		}
 
 		/// <summary>

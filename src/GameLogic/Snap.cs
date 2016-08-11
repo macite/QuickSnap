@@ -86,6 +86,7 @@ namespace CardGames.GameLogic
 		/// <summary>
 		/// Start the Snap game playing!
 		/// </summary>
+
 		public void Start()
 		{
 			if ( ! IsStarted )			// only start if not already started!
@@ -147,11 +148,9 @@ namespace CardGames.GameLogic
 			{
 				_score[player]++;
 				//TODO: consider playing a sound here...
+				SwinGame.PlaySoundEffect ("Slap");
 			}
-<<<<<<< HEAD
-			
-=======
->>>>>>> f9834d86a19c7f6bed0b1ade50d90b5c59bbd4b0
+			// added part
 			else if ( player >= 0 && player < _score.Length)
 			{
 				_score[player]--;

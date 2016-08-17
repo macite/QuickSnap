@@ -146,6 +146,7 @@ namespace CardGames.GameLogic
 			{
 				_score[player]++;
 				//TODO: consider playing a sound here...
+				SwinGame.PlaySoundEffect ("Slap");
 			}
 
 			// stop the game...

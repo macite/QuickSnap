@@ -26,6 +26,29 @@ namespace CardGames
 			{
 				myGame.FlipNextCard ();
 			}
+
+			SwinGame.LoadSoundEffectNamed ("Slap", "slap.wav");
+				
+				if ( SwinGame.KeyTyped (KeyCode.vk_LSHIFT) &&
+					SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
+				{
+					//TODO: add sound effects
+					
+					
+					SwinGame.PlaySoundEffect ("Slap");
+					
+				}
+				else if (SwinGame.KeyTyped (KeyCode.vk_LSHIFT))
+				{
+					myGame.PlayerHit (0);
+					SwinGame.PlaySoundEffect ("Slap");
+				}
+				else if (SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
+				{
+					myGame.PlayerHit (1);
+					SwinGame.PlaySoundEffect ("Slap");
+				}
+			
 		}
 
 		/// <summary>
@@ -69,7 +92,7 @@ namespace CardGames
         public static void Main()
         {
             //Open the game window
-            SwinGame.OpenGraphicsWindow("Snap!", 860, 500);
+            SwinGame.OpenGraphicsWindow("hi!", 860, 500);
 
 			//Load the card images and set their cell details
             LoadResources();

@@ -27,7 +27,7 @@ namespace CardGames
 				myGame.FlipNextCard ();
 			}
 
-			SwinGame.LoadSoundEffectName ("Slap", "slap.wav");
+			SwinGame.LoadSoundEffectNamed ("Slap", "slap.wav");
 				
 				if ( SwinGame.KeyTyped (KeyCode.vk_LSHIFT) &&
 					SwinGame.KeyTyped (KeyCode.vk_RSHIFT))

@@ -75,7 +75,7 @@ namespace CardGames
             LoadResources();
             
 			// Create the game!
-			Snap myGame = new Snap();
+			Snap myGame = new Snap ();
 
             //Run the game loop
             while(false == SwinGame.WindowCloseRequested())

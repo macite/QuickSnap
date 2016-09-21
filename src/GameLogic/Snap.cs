@@ -90,9 +90,9 @@ namespace CardGames.GameLogic
 			if ( ! IsStarted )			// only start if not already started!
 			{
 				_started = true;
-				_deck.Shuffle();		// Return the cards and shuffle
+				_deck.Shuffle ();		// Return the cards and shuffle
 
-				FlipNextCard();		// Flip the first card...
+				FlipNextCard ();		// Flip the first card...
 				_gameTimer.Start();
 			}
 		}

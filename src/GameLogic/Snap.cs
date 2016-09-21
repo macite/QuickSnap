@@ -85,6 +85,26 @@ namespace CardGames.GameLogic
 		/// <summary>
 		/// Start the Snap game playing!
 		/// </summary>
+		
+		public void Shuffle()
+		{
+			for(int i = 0; i < 52; i++)
+			{
+				if(_cards[i].FaceUp)_cards[i].TurnOver();
+			}
+			Random rnd = new Random();
+			
+			for(int i = 0; i < 52-1; i++)
+			{
+				int rndIdx = rnd.Next(52-i);
+				
+				Card temp = card[i];
+				_cards[i] = _cards[i+rndIdx];
+				_cards[i + rndIdx] = temp;
+			}
+			_topCards = 0
+		}
+		
 		public void Start()
 		{
 			if ( ! IsStarted )			// only start if not already started!

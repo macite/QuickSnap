@@ -37,6 +37,7 @@ namespace CardGames.GameLogic
 		public Snap ()
 		{
 			_deck = new Deck ();
+			_gameTimer = SwinGame.CreateTimer();
 		}
 
 		/// <summary>
@@ -84,6 +85,27 @@ namespace CardGames.GameLogic
 		/// <summary>
 		/// Start the Snap game playing!
 		/// </summary>
+		
+		public void Shuffle()
+		{
+			for(int i = 0; i < 52; i++)
+			{
+				if(_cards[i].FaceUp)_cards[i].TurnOver();
+			}		
+			Random rnd = new Random();
+			// for each card (no need to shuffle last card)
+			for(int i = 0; i < 52 - 1; i++)
+			{
+				// pick a random index    
+				int rndIdx = rnd.Next(52 - i);
+
+				Card temp = _cards[i];
+				_cards[i]  = _cards[i + rndIdx];
+				_cards[i + rndIdx] = temp; 
+			}
+			_topCard = 0
+		}
+				
 		public void Start()
 		{
 			if ( ! IsStarted )			// only start if not already started!
@@ -92,6 +114,7 @@ namespace CardGames.GameLogic
 				_deck.Shuffle ();		// Return the cards and shuffle
 
 				FlipNextCard ();		// Flip the first card...
+				_gameTimer.Start();
 			}
 		}
 			
@@ -112,6 +135,11 @@ namespace CardGames.GameLogic
 		public void Update()
 		{
 			//TODO: implement update to automatically slip cards!
+			if(_gameTimer.Ticks > _flipTime)
+			{
+				_gameTimer.Reset();
+				FlipNextCard();
+			}
 		}
 
 		/// <summary>
@@ -140,9 +168,14 @@ namespace CardGames.GameLogic
 				_score[player]++;
 				//TODO: consider playing a sound here...
 			}
+			else if(player >= 0 && player < _score.Length)
+			{
+				_score[player]--;
+			}
 
 			// stop the game...
 			_started = false;
+			_gameTimer.Stop();
 		}
 	
 		#region Snap Game Unit Tests

@@ -91,20 +91,21 @@ namespace CardGames.GameLogic
 			for(int i = 0; i < 52; i++)
 			{
 				if(_cards[i].FaceUp)_cards[i].TurnOver();
-			}
+			}		
 			Random rnd = new Random();
-			
-			for(int i = 0; i < 52-1; i++)
+			// for each card (no need to shuffle last card)
+			for(int i = 0; i < 52 - 1; i++)
 			{
-				int rndIdx = rnd.Next(52-i);
-				
-				Card temp = card[i];
-				_cards[i] = _cards[i+rndIdx];
-				_cards[i + rndIdx] = temp;
+				// pick a random index    
+				int rndIdx = rnd.Next(52 - i);
+
+				Card temp = _cards[i];
+				_cards[i]  = _cards[i + rndIdx];
+				_cards[i + rndIdx] = temp; 
 			}
-			_topCards = 0
+			_topCard = 0
 		}
-		
+				
 		public void Start()
 		{
 			if ( ! IsStarted )			// only start if not already started!

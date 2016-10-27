@@ -54,7 +54,7 @@ namespace CardGames.GameLogic
 		/// </summary>
 		public void Shuffle()
 		{
-			//TODO: implement shuffle!
+
 		}
         
 		/// <summary>

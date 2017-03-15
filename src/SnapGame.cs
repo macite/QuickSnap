@@ -34,10 +34,10 @@ namespace CardGames
 		/// <param name="myGame">The details of the game -- mostly top card and scores.</param>
 		private static void DrawGame(Snap myGame)
 		{
-			SwinGame.ClearScreen(Color.White);
+            SwinGame.DrawBitmap("cardsBoard.png", 0, 0);
 
-			// Draw the top card
-			Card top = myGame.TopCard;
+            // Draw the top card
+            Card top = myGame.TopCard;
 			if (top != null)
 			{
 				SwinGame.DrawText ("Top Card is " + top.ToString (), Color.RoyalBlue, 0, 20);
@@ -55,13 +55,15 @@ namespace CardGames
 
 			//Draw onto the screen
 			SwinGame.RefreshScreen(60);
-		}
+        }
 
-		/// <summary>
-		/// Updates the game -- it should flip the cards itself once started!
-		/// </summary>
-		/// <param name="myGame">The game to be updated...</param>
-		private static void UpdateGame(Snap myGame)
+
+
+        /// <summary>
+        /// Updates the game -- it should flip the cards itself once started!
+        /// </summary>
+        /// <param name="myGame">The game to be updated...</param>
+        private static void UpdateGame(Snap myGame)
 		{
 			myGame.Update(); // just ask the game to do this...
 		}

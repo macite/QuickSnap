@@ -4,14 +4,14 @@ using CardGames.GameLogic;
 
 namespace CardGames
 {
-    public class SnapGame
-    {
-        public static void LoadResources()
-        {
-            Bitmap cards;
-            cards = SwinGame.LoadBitmapNamed ("Cards", "Cards.png");
-            SwinGame.BitmapSetCellDetails (cards, 82, 110, 13, 5, 53);      // set the cells in the bitmap to match the cards
-        }
+	public class SnapGame
+	{
+		public static void LoadResources ()
+		{
+			Bitmap cards;
+			cards = SwinGame.LoadBitmapNamed ("Cards", "Cards.png");
+			SwinGame.BitmapSetCellDetails (cards, 82, 110, 13, 5, 53);      // set the cells in the bitmap to match the cards
+		}
 
 		/// <summary>
 		/// Respond to the user input -- with requests affecting myGame
@@ -24,7 +24,7 @@ namespace CardGames
 
 			if (SwinGame.KeyTyped (KeyCode.vk_SPACE))
 			{
-				myGame.FlipNextCard ();
+				myGame.Start ();
 			}
 		}
 
@@ -76,6 +76,8 @@ namespace CardGames
             
 			// Create the game!
 			Snap myGame = new Snap ();
+
+		
 
             //Run the game loop
             while(false == SwinGame.WindowCloseRequested())

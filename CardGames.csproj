@@ -176,6 +176,7 @@
     <None Include="Resources\sounds\slap.wav" />
     <None Include="Resources\sounds\slap2.wav" />
     <None Include="Resources\sounds\punch.wav" />
+    <None Include="Resources\fonts\Chunkfive.otf" />
   </ItemGroup>
   <Target Name="CopyFiles">
     <Copy SourceFiles="@(MacLibraryFiles)" DestinationFolder="$(OutDir)" />

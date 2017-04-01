@@ -151,6 +151,7 @@ namespace CardGames.GameLogic
 			}
 			// stop the game...
 			_started = false;
+			_started = true;
 			_gameTimer.Stop ();
 		}
 	

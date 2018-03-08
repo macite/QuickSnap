@@ -95,18 +95,22 @@ namespace CardGames.GameLogic
 			}
 		}
 			
-		public void FlipNextCard()
+
+public void FlipNextCard()
 		{
 			if (_deck.CardsRemaining > 0)			// have cards...
 			{
 				_topCards [0] = _topCards [1];		// move top to card 2
-				_topCards [1] = _deck.Draw ();		// get a new top card
+
+_topCards [1] = _deck.Draw ();		// get a new top card
 				_topCards[1].TurnOver();			// reveal card
 			}
 		}
 
-		/// <summary>
-		/// Update the game. This should be called in the Game loop to enable
+
+/// <summary>
+
+/// Update the game. This should be called in the Game loop to enable
 		/// the game to update its internal state.
 		/// </summary>
 		public void Update()
@@ -139,6 +143,10 @@ namespace CardGames.GameLogic
 			{
 				_score[player]++;
 				//TODO: consider playing a sound here...
+			}
+			else if (player >= 0 && player < _score.Length)
+			{
+			_score[player]--;
 			}
 
 			// stop the game...

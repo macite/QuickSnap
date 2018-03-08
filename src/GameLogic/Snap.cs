@@ -144,11 +144,18 @@ _topCards [1] = _deck.Draw ();		// get a new top card
 				_score[player]++;
 				//TODO: consider playing a sound here...
 			}
+<<<<<<< HEAD
 			else if (player >= 0 && player < _score.Length)
 			{
 			_score[player]--;
 			}
 
+=======
+            else if(player>=0 && player<_score.Length)
+            {
+                _score[player]--;
+            }
+>>>>>>> add-player-hit
 			// stop the game...
 			_started = false;
 		}

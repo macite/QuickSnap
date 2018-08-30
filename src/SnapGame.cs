@@ -6,6 +6,8 @@ namespace CardGames
 {
     public class SnapGame
     {
+		//we are adding a new line to the code
+		
         public static void LoadResources()
         {
             Bitmap cards;

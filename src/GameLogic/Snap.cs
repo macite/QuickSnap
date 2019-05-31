@@ -14,8 +14,10 @@ namespace CardGames.GameLogic
 	/// </summary>
 	public class Snap
 	{
-		// Keep only the last two cards...
-		private readonly Card[] _topCards = new Card[2];
+        
+
+        // Keep only the last two cards...
+        private readonly Card[] _topCards = new Card[2];
 
 		// Have a Deck of cards to play with.
 		private readonly Deck _deck;

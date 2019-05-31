@@ -14,12 +14,7 @@ namespace CardGames.GameLogic
 	/// </summary>
 	public class Snap
 	{
-        public Snap()
-        {
-            _deck = new Deck();
-            _gameTimer = SwinGame.CreateTimer
-            ();
-        }
+        
 
         // Keep only the last two cards...
         private readonly Card[] _topCards = new Card[2];

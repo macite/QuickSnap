@@ -3,7 +3,7 @@ using SwinGameSDK;
 
 #if DEBUG
 using NUnit.Framework;
-#endif 
+#endif
 
 
 namespace CardGames.GameLogic
@@ -37,6 +37,7 @@ namespace CardGames.GameLogic
 		public Snap ()
 		{
 			_deck = new Deck ();
+			_gameTimer = SwinGame.CreateTimer();
 		}
 
 		/// <summary>
@@ -92,9 +93,10 @@ namespace CardGames.GameLogic
 				_deck.Shuffle ();		// Return the cards and shuffle
 
 				FlipNextCard ();		// Flip the first card...
+				_gameTimer.Start();
 			}
 		}
-			
+
 		public void FlipNextCard()
 		{
 			if (_deck.CardsRemaining > 0)			// have cards...
@@ -111,6 +113,11 @@ namespace CardGames.GameLogic
 		/// </summary>
 		public void Update()
 		{
+				if (_gameTimer.Ticks > _flipTime)
+				{
+					_gameTimer.Reset
+					(); FlipNextCard();
+				}
 			//TODO: implement update to automatically slip cards!
 		}
 
@@ -121,7 +128,7 @@ namespace CardGames.GameLogic
 		public int Score(int idx)
 		{
 			if ( idx >= 0 && idx < _score.Length )
-				return _score[idx]; 
+				return _score[idx];
 			else
 				return 0;
 		}
@@ -132,19 +139,25 @@ namespace CardGames.GameLogic
 		/// </summary>
 		public void PlayerHit (int player)
 		{
-			//TODO: consider deducting score for miss hits???
-			if ( player >= 0 && player < _score.Length &&  	// its a valid player
-				 IsStarted && 								// and the game is started
-				 _topCards [0] != null && _topCards [0].Rank == _topCards [1].Rank) // and its a match
-			{
-				_score[player]++;
-				//TODO: consider playing a sound here...
-			}
+            //TODO: consider deducting score for miss hits???
+            if (player >= 0 && player < _score.Length &&    // its a valid player
+                 IsStarted &&                               // and the game is started
+                 _topCards[0] != null && _topCards[0].Rank == _topCards[1].Rank) // and its a match
+            {
+                _score[player]++;
+                //TODO: consider playing a sound here...
+            }
+
+            else if (player >= 0 && player < _score.Length)
+            {
+                _score[player]--;
+            }
 
 			// stop the game...
 			_started = false;
+				_gameTimer.Stop ();
 		}
-	
+
 		#region Snap Game Unit Tests
 		#if DEBUG
 
@@ -174,8 +187,7 @@ namespace CardGames.GameLogic
 			}
 		}
 
-		#endif 
+		#endif
 		#endregion
 	}
 }
-

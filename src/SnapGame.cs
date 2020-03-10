@@ -24,7 +24,7 @@ namespace CardGames
 
 			if (SwinGame.KeyTyped (KeyCode.vk_SPACE))
 			{
-				myGame.FlipNextCard ();
+                myGame.Start();
 			}
 		}
 
@@ -64,6 +64,7 @@ namespace CardGames
 		private static void UpdateGame(Snap myGame)
 		{
 			myGame.Update(); // just ask the game to do this...
+
 		}
 
         public static void Main()

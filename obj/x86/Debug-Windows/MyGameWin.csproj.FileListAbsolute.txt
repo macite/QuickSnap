@@ -1,0 +1,388 @@
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\ruane\Desktop\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\ruane\Desktop\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\Desktop\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\ruane\Desktop\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\Desktop\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\Desktop\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 2\Task 2.1\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 3\Task 3.1\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 4\Task 4.1\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.2\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\images\fdFile.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\images\fdFolder.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\bin\Debug\SwinGame.dll
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 5\Task 5.3\ShapeDrawing\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\fdFile.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\fdFolder.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\SwinGame.dll
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\test.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\Terrain\dirt.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\Task 6.2\CustomProgram\bin\Debug\Resources\images\player.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\SwinGame.dll
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\player.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnStart.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\levels\Level1.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\levels\Menu.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\txrDirt.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrGrass.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrPlanks.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrStone.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrWood.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnEditor.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\txrBricks.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\txrFlag.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\levels\LevelEditor.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\PlayerSpawner.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnMenu.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnSaves.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Background.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\levels\LevelSelector.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\levels\Level3.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\levels\Level2.txt
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot2.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot1.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot5.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot4.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot3.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot0.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnSave.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\UIBar.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\ScreenOverlay.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Enemies\Kilby.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnRestart.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Enemies\Stroller.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\Spike.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\Flag.png
+C:\Users\ruane\Desktop\Semester 2\Object Oriented Programming\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnFlag.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Background.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Enemies\Kilby.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Enemies\Stroller.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\PlayerSpawner.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\Flag.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\Spike.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrDirt.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\player.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrBricks.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\txrFlag.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrGrass.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrPlanks.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrStone.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrWood.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnEditor.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnFlag.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot5.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot4.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot3.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot2.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnMenu.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnRestart.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnSave.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnSaves.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnStart.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot1.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot0.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\ScreenOverlay.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\UIBar.png
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\Level3.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\Level2.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\Level1.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\LevelSelector.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\LevelEditor.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\Menu.txt
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\MyGame.exe
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\MyGame.pdb
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\SwinGame.dll
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Background.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Enemies\Kilby.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Enemies\Stroller.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\PlayerSpawner.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\Flag.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\Spike.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrDirt.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\player.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrBricks.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\txrFlag.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrGrass.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrPlanks.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrStone.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\Terrain\TxrWood.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnEditor.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnFlag.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot5.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot4.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot3.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot2.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnMenu.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnRestart.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnSave.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnSaves.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnStart.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot1.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\Buttons\BtnLoadSlot0.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\ScreenOverlay.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\images\UI\UIBar.png
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\Level3.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\Level2.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\Level1.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\LevelSelector.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\LevelEditor.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\Resources\levels\Menu.txt
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\MyGame.exe
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\MyGame.pdb
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\bin\Debug\SwinGame.dll
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\OneDrive\Desktop\Swinburne\Completed\2019\Semester 2\Object Oriented Programming\_old\Week 6\CustomProgram\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\animations\startup.txt
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\bundles\splash.txt
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\sounds\error.wav
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\SwinGame.icns
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\SwinGame.ico
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\MyGame.exe
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\MyGame.pdb
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\SwinGame.dll
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\Cards.png
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\fdFile.png
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\fdFolder.png
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\ruane\OneDrive\Desktop\Semester 2\Tools and Practices\Tasks\Task 2.1P\Submission\QuickSnap\bin\Debug\Resources\images\SwinGameAni.png

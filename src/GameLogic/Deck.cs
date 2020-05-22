@@ -21,7 +21,7 @@ namespace CardGames.GameLogic
 		/// </summary>
 		public Deck ()
 		{
-			num1 = 100;
+			num1 = 1000;
 		    int i = 0;
 		    
 		    for (Suit s = Suit.CLUB; s <= Suit.SPADE; s++) 

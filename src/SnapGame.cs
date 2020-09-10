@@ -32,8 +32,8 @@ namespace CardGames
 				if (SwinGame.KeyTyped (KeyCode.vk_LSHIFT) && SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
                			 {
 					//TODO: add sound effects;
-					SwinGame.LoadSoundEffectNamed("Slap", "slap.wav");
-					SwinGame.PlaySoundEffect("Slap");
+					SwinGame.LoadSoundEffectNamed("SwinGameStrat", "SwinGameStart.wav");
+					SwinGame.PlaySoundEffect("SwinGameStart");
 				}
 				else if(SwinGame.KeyTyped (KeyCode.vk_LSHIFT))
                 		{

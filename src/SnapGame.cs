@@ -11,6 +11,7 @@ namespace CardGames
             Bitmap cards;
             cards = SwinGame.LoadBitmapNamed ("Cards", "Cards.png");
             SwinGame.BitmapSetCellDetails (cards, 167, 250, 13, 5, 53);      // set the cells in the bitmap to match the cards
+			SwinGame.LoadFontNamed("GameFont", "Chunkfive.otf", 24);
         }
 
 		/// <summary>
@@ -65,7 +66,7 @@ namespace CardGames
 			}
 			else
 			{
-				SwinGame.DrawText ("No card played yet...", Color.RoyalBlue, 0, 20);
+				SwinGame.DrawText ("No card played yet..."+myGame.Score(0),Color.White,"GameFont", 0, 30);
 			}
 
 			// Draw the back of the cards... to represent the deck

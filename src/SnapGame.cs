@@ -28,7 +28,7 @@ namespace CardGames
 			}
 			
 			if(myGame.IsStarted)
-            		{
+            {
 				if (SwinGame.KeyTyped (KeyCode.vk_LSHIFT) && SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
                			 {
 					//TODO: add sound effects;
@@ -36,14 +36,14 @@ namespace CardGames
 					SwinGame.PlaySoundEffect("SwinGameStart");
 				}
 				else if(SwinGame.KeyTyped (KeyCode.vk_LSHIFT))
-                		{
+                {
 					myGame.PlayerHit(0);
-                		}
+                }
 				else if(SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
-                		{
+                {
 					myGame.PlayerHit(0);
-                		}
-            		}
+                }
+            }
 		}
 
 		/// <summary>

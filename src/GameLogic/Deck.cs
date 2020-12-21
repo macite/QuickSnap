@@ -14,13 +14,14 @@ namespace CardGames.GameLogic
 	{
         private readonly Card[] 	_cards = new Card[52];
         private int 	_topCard;
-     
+		private int num1;
 		/// <summary>
 		/// Creates a new Deck with 52 Cards. The first card
 		/// will be the top of the Deck.
 		/// </summary>
 		public Deck ()
 		{
+			num1 = 1000;
 		    int i = 0;
 		    
 		    for (Suit s = Suit.CLUB; s <= Suit.SPADE; s++) 
